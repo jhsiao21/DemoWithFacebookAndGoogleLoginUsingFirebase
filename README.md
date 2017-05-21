@@ -1,4 +1,4 @@
-# DemoWithFacebookAndGoogleLoginUsingFirebase
+# SocialLoginDemoUsingFirebase-Swift
 
 A Demo using Firebase to intergate Facebook Login and Google Login in iOS app written in swift. 
  
@@ -11,5 +11,5 @@ Require：
 * Open info.plist to look for URL types, and add URL Schemes for fbxxxx and com.googleusercontent.apps.xxxxxxx
 
 If you want to see the tutorial , please check out: http://www.appcoda.com/firebase-facebook-login/  
-I also implemented an iOS app of <a href="https://github.com/jhsiao21/SocialLoginDemoUsingFirebase-ObjC">Objective-C version.</a>
+And I've implemented an iOS app of <a href="https://github.com/jhsiao21/SocialLoginDemoUsingFirebase-ObjC">Objective-C version.</a>
 
